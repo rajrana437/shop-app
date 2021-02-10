@@ -11,28 +11,28 @@ const initialState = {
   cartCost: 0,
   products: {
     greyHoodie: {
-      name: 'Grey Tshirt',
+      name: 'Grey Hoodie',
       tagName: 'greyHoodie',
       price: 999,
       numbers: 0,
       inCart: false,
     },
     blackHoodie: {
-      name: 'Black Tshirt',
+      name: 'Black Hoodie',
       tagName: 'blackHoodie',
       price: 999,
       numbers: 0,
       inCart: false,
     },
     blueHoodie: {
-      name: 'Blue Tshirt',
+      name: 'Blue Hoodie',
       tagName: 'blueHoodie',
       price: 999,
       numbers: 0,
       inCart: false,
     },
     marvelHoodie: {
-      name: 'Marvel Tshirt',
+      name: 'Marvel Hoodie',
       tagName: 'marvelHoodie',
       price: 999,
       numbers: 0,

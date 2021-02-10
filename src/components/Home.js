@@ -36,7 +36,7 @@ const Home = (props) => {
       </div>
       <div className='image'>
         <img src={blueHoodie} alt='blueHoodie' />
-        <h3>Black Hoodie</h3>
+        <h3>Blue Hoodie</h3>
         <h3>Rs 999</h3>
         <a
           onClick={() => props.addBasket('blueHoodie')}
